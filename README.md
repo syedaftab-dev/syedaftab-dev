@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Syed Aftab
+# 💫 Hi 👋, I'm Aftab
 
 ## A passionate Full Stack Web Developer 🚀 | Currently diving deep into Backend Development ⚙️
 
