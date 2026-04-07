@@ -2,7 +2,7 @@
 
 ## A passionate Full Stack Web Developer 🚀 | Currently diving deep into Backend Development and AI Integration⚙️
 
-📧 Email Me: syed.md.aftab.2027@gmail.com  for collaborations, projects, or just to talk tech! 😊
+📧 Email Me: syedaftab488@gmail.com  for collaborations, projects, or just to talk tech! 😊
   - 🔭 I’m currently working on: Learning full-stack web development and improving my backend architecture skills.
   - 🌱 I’m currently learning: Node.js, Express.js, MongoDB, and API development.
   - 👯 I’m looking to collaborate on: Web development projects or open-source contributions
