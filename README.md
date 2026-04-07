@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Aftab
 
-## A passionate Full Stack Web Developer 🚀 | Currently diving deep into Backend Development ⚙️
+## A passionate Full Stack Web Developer 🚀 | Currently diving deep into Backend Development and AI Integration⚙️
 
 📧 Email Me: syed.md.aftab.2027@gmail.com  for collaborations, projects, or just to talk tech! 😊
   - 🔭 I’m currently working on: Learning full-stack web development and improving my backend architecture skills.
