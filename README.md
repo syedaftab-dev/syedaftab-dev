@@ -1,14 +1,25 @@
 # 💫 Hi 👋, I'm Aftab
 
-## A passionate Full Stack Web Developer 🚀 | Currently diving deep into Backend Development and AI Integration⚙️
+### 🚀 Full Stack Developer | Backend & AI/LLM Enthusiast
+
+I'm a Computer Science student and Full Stack Developer focused on building
+scalable web applications, real-time systems, and AI-powered products.
+
+Currently exploring deeper backend architecture, distributed systems,
+and practical AI/LLM integrations.
 
 📧 Email Me: syedaftab488@gmail.com  for collaborations, projects, or just to talk tech! 😊
-  - 🔭 I’m currently working on: Learning full-stack web development and improving my backend architecture skills.
-  - 🌱 I’m currently learning: Node.js, Express.js, MongoDB, and API development.
-  - 👯 I’m looking to collaborate on: Web development projects or open-source contributions
-  - 💬 Ask me about: Frontend, React.js, JavaScript etc
-  - ⚡ Fun fact: I break code only to rebuild it better 😄
-    
+ 
+### 👨‍💻 About Me
+
+- 🎓 B.Tech CSE @ IIITDM Kurnool
+- 💻 Full Stack Development Intern @ GEMISS
+- 🚀 Built and deployed 5+ full-stack applications
+- ⚡ Interested in Backend Engineering, System Design & AI
+- 🤖 Building applications with LLMs, RAG and AI APIs
+- 🌐 Open to collaborating on interesting projects and open-source
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-aftab-797130345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syed.mohd.aftab.2027@gmail.com) 
 
